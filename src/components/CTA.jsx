@@ -35,7 +35,7 @@ export function CTA({ handleDiscordClick }) {
               onClick={() => handleDiscordClick('https://discord.gg/VwPJGJrT')}
               className="pixel-button bg-pixel-purple text-black px-4 py-2 text-lg font-bold uppercase w-full sm:w-auto"
             >
-              Treron Dev Server
+              Treron server
             </Button>
             <Button
               onClick={() => handleDiscordClick('https://discord.gg/JeEMprwn')}

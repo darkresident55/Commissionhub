@@ -21,7 +21,7 @@ export function Gallery() {
             whileHover={{ y: -5, x: -3, boxShadow: '10px 10px 0px #ffffff' }}
           >
             <div className="bg-white aspect-video flex items-center justify-center mb-4 border-4 border-pixel-border">
-              <img  class="w-full h-full object-cover" alt="Pixel art characters for 'The Waking Soul' game" src="https://images.unsplash.com/photo-1588990779542-ddd8b7b07476" />
+              <img  class="w-full h-full object-cover" alt="Pixel art characters for 'The Waking Soul' game" src="https://raw.githubusercontent.com/darkresident55/Commissionhub/refs/heads/main/Screenshot%202025-08-27%20222450.png" />
             </div>
             <p className="text-center font-bold text-lg text-white">The Waking Soul Characters</p>
           </motion.div>
@@ -30,7 +30,7 @@ export function Gallery() {
             whileHover={{ y: -5, x: -3, boxShadow: '10px 10px 0px #ffffff' }}
           >
             <div className="bg-white aspect-video flex items-center justify-center mb-4 border-4 border-pixel-border">
-              <img  class="w-full h-full object-cover" alt="32-bit pixel art background of a vibrant sky with clouds" src="https://images.unsplash.com/photo-1676552088106-ea266cc77c4e" />
+              <img  class="w-full h-full object-cover" alt="32-bit pixel art background of a vibrant sky with clouds" src="https://raw.githubusercontent.com/darkresident55/Commissionhub/refs/heads/main/Screenshot%202025-08-27%20222450.png" />
             </div>
             <p className="text-center font-bold text-lg text-white">32-bit Background/Skies</p>
           </motion.div>
@@ -39,7 +39,7 @@ export function Gallery() {
             whileHover={{ y: -5, x: -3, boxShadow: '10px 10px 0px #ffffff' }}
           >
             <div className="bg-white aspect-video flex items-center justify-center mb-4 border-4 border-pixel-border">
-              <img  class="w-full h-full object-cover" alt="Small, expressive pixel art character animations" src="https://images.unsplash.com/photo-1693310293097-3458cdc83dc0" />
+              <img  class="w-full h-full object-cover" alt="Small, expressive pixel art character animations" src="https://raw.githubusercontent.com/darkresident55/Commissionhub/refs/heads/main/Screenshot%202025-08-27%20222450.png" />
             </div>
             <p className="text-center font-bold text-lg text-white">Small Character Animations</p>
           </motion.div>
@@ -48,7 +48,7 @@ export function Gallery() {
             whileHover={{ y: -5, x: -3, boxShadow: '10px 10px 0px #ffffff' }}
           >
             <div className="bg-white aspect-video flex items-center justify-center mb-4 border-4 border-pixel-border">
-              <img  class="w-full h-full object-cover" alt="Pixel art character portraits showing various emotions for dialogue" src="https://images.unsplash.com/photo-1635220339528-4dbe86b2fdda" />
+              <img  class="w-full h-full object-cover" alt="Pixel art character portraits showing various emotions for dialogue" src="https://raw.githubusercontent.com/darkresident55/Commissionhub/refs/heads/main/Screenshot%202025-08-27%20222450.png" />
             </div>
             <p className="text-center font-bold text-lg text-white">Dialogue Emotion Art</p>
           </motion.div>
